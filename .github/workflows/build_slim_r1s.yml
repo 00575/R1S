@@ -1,6 +1,7 @@
 name: build_slim_r1s
 
 on:
+  repository_dispatch:
   workflow_dispatch:
 
 jobs:
