@@ -64,5 +64,5 @@ jobs:
           tag: ${{env.strDate}}
           file_glob: true
           overwrite: true
-          release_name: r1s-${{env.strDate}}    
+          release_name: ${{env.strDate}}发布    
           body: "5.4.X内核编译R1S纯净固件"
