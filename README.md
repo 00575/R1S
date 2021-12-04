@@ -19,5 +19,5 @@ wget -qO- https://github.com/00575/R1S/raw/master/scripts/autoupdate.sh | ver=-s
 ```
 5.10.x内核 slim纯净版
 ```bash
-wget -qO- https://github.com/00575/R2S/raw/master/scripts/autoupdate_5.10.x.sh | ver=-slim sh
+wget -qO- https://github.com/00575/R1S/raw/master/scripts/autoupdate_5.10.x.sh | ver=-slim sh
 ```
